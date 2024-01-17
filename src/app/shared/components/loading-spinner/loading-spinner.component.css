@@ -1,0 +1,17 @@
+.spinner-container{
+    align-items: center;
+    background-color: black;
+    border-radius: 20px;
+    bottom: 15px;
+    color: white;
+    display: flex;
+    padding: 5px 10px;
+    position: fixed;
+    right: 15px;
+    padding: 10px;
+    box-shadow: .1vw .1vw .9vw rgba(0, 0, 0, 0.7);
+}
+span{
+    margin-right: 12px;
+    margin-left: 8px;
+}
